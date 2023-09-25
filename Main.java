@@ -3,6 +3,3 @@ public class Main{
 		
 	}
 }
-class dataBox{
-	
-}
